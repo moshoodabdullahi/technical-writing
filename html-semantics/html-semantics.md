@@ -1,0 +1,20 @@
+# HTML Semantics
+
+HTML Semantics can be defined as making use of HTML elements to describe the meaning of webpage and not only it's appearance.
+
+**HTML Semantics possess some advantages such as:**
+
+1. HTML Semantics helps search engines and other user devices to determine context of web pages that is, what webpage means and not only how it appears.
+2. It also helps search engines and accessibility software such as screen
+   readers to understand the contents of a page.
+3. HTML Semantics makes it easier for everyone to navigate the codebase; in the sense that everyone will have an actual understanding about what they are looking at.
+4. HTML Semantics provides a clear structure for your website, making it easier for users who rely on assistive technologies such as screen readers to navigate your site.
+5. It convey the meaning or purpose of the content on a web page rather than just its visual appearance
+
+- When HTML Semantics is not used, there tends to be little or no understanding about what the content of a webpage is all about because HTML Smantics usually speaks for itself. For Example `<section></section>`, looking at it already explain everything, when we talk about section; it means to be dividing in to category making whatever you are working on makes absolute sense and not stick together something similar also go with the section element. Section element can be used to divide a web page into different category even if they are sections of related content. We also have `<table></table>` this is one of the most unique and understandable HTML Semantics,it is called table element; because merely looking at it already describe what is does, it already speaks for itself, table element is use to generate a table to show data in tabular form and it doesn't work alone, It work with the aid of `<tr></tr>` this is known as the table rows; this makes you decide on how many rows you want your table to have, `<th></th>` table header contains header information or data that makes anyone understands what the table is all about, we also have `<td></td>` the table data, it is where all information or data will be written in the table, when HTML Semantics is used, anyone can grasp the understanding of webpage content easily.
+
+- Another purpose of using HTML Semantics in HTML is to organize your text based on the meaning of the HTML element rather than how it looks. For Example `<header></header>` this is called the header element, this code already speaks for itself, in the sense that; whatever will be inside it wil be a the starting or an heading of a content, and we also have `<footer></footer>` the footer element is a an element that is used to identify the footer of a page, article, or section. A footer contains copyright and author's information, contact details pertaining to the contents of the page. While the header element specifies a header for a document or section, the footer defines a footer for a document or section. We also have `<main></main>` the main element, it is an HTML Semantics element that defines the main section of a page where the content appears, there is only one main element in an entire page. There is the `<p></p>` paragraph tag is an HTML Semantics element where all content between its opening and and where it close is a block of paragraph of text. Anyone reading this it will understand its purpose.
+
+- Additionally, using HTML Semantic could provide a ordinary person without technology knowledge to have enough information to understand why a piece of content was placed where it was. Also, if HTML Semantics is not used there tends to be poor accessibility in the sense that navigating through your website will be difficult for users who rely on screen readers.
+
+HTML Semantics can be seen as an element clearly describes it's meaning to both the browser and the developer working with it, that is HTML Semantics is not only meaningful to the person writing it, the browser also have full understanding about what is being receive and interpreted, the browser don't just process what you are writing alone, the browser fully understand with the use of HTML Semantics.
