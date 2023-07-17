@@ -36,13 +36,13 @@ Writing articles not only improves your writing skills but also contributes to y
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Linters
+  - [Prettier](https://prettier.io/).
+- GitHub Action
 
-## Live Demo (if available)
+## Live Publication
 
-[Live Demo Link](https://livedemo.com)
+[Live Publication Link](https://livepublication.com)
 
 ## Getting Started
 
@@ -51,31 +51,35 @@ Writing articles not only improves your writing skills but also contributes to y
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+```bash
+git clone https://github.com/user/technical-writing.git
+```
 
-### Setup
+- Install Dependencies
 
-### Install
+```bash
+yarn install
+```
 
-### Usage
+You can check against Prettier:
 
-### Run tests
+```bash
+yarn format:check
+```
 
-### Deployment
+and to have it fix (to the best of its ability) any format issues, run:
 
-## Authors
+```bash
+yarn format
+```
 
-👤 **Author1**
+## Author
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Author**
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [@moshoodabdullahi](https://github.com/moshoodabdullahi)
+- Linkedin: [@moshoodabdullahi](https://www.linkedin.com/in/moshoodabdullahi/)
+- FreeCodeCamp: [@moshoodabdullahi](https://www.freecodecamp.org/moshoodabdullahi)
 
 ## 🤝 Contributing
 
@@ -89,9 +93,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [FCC](https://www.freecodecamp.org/learn/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Coursera](https://www.coursera.org/)
 
 ## 📝 License
 
