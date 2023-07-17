@@ -37,7 +37,7 @@ Writing articles not only improves your writing skills but also contributes to y
 ## Built With
 
 - Linters
-  - [Prettier](https://prettier.io/),
+  - [Prettier](https://prettier.io/).
 - GitHub Action
 
 ## Live Publication
