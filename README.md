@@ -75,7 +75,7 @@ yarn format
 
 ## Author
 
-👤 **Author**
+👤 **Author1**
 
 - Github: [@moshoodabdullahi](https://github.com/moshoodabdullahi)
 - Linkedin: [@moshoodabdullahi](https://www.linkedin.com/in/moshoodabdullahi/)
