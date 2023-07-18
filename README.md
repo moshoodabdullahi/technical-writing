@@ -96,7 +96,6 @@ Give a ⭐️ if you like this project!
 - [FCC](https://www.freecodecamp.org/learn/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Coursera](https://www.coursera.org/)
-- [CodeCademy](https://www.codecademy.com/)
 
 ## 📝 License
 
