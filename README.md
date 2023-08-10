@@ -52,7 +52,7 @@ Writing articles not only improves your writing skills but also contributes to y
 To get a local copy up and running follow these simple example steps.
 
 ```bash
-git clone https://github.com/user/technical-writing.git
+git clone https://github.com/moshoodabdullahi/technical-writing.git
 
 ```
 
