@@ -16,4 +16,8 @@ HTML Semantics can be defined as making use of HTML elements to describe the mea
 
 - Additionally, using HTML Semantic could provide an ordinary person without technology knowledge to have enough information to understand why a piece of content was placed where it was. Also, if HTML Semantics is not used there tends to be poor accessibility in the sense that navigating through your website will be difficult for users who rely on screen readers.
 
-HTML Semantics can be seen as an element that clearly describes its meaning to both the browser and the developer working with it, that is HTML Semantics is not only meaningful to the person writing it, but the browser also has a full understanding of what is being received and interpreted, the browser doesn't just process what you are writing alone, the browser fully understand with the use of HTML Semantics.
+And also according to Coursera, HTML Semantics can be seen as an element that clearly describes its meaning to both the browser and the developer working with it, that is HTML Semantics is not only meaningful to the person writing it, but the browser also has a full understanding of what is being received and interpreted, the browser doesn't just process what you are writing alone, the browser fully understand with the use of HTML Semantics.
+
+## Acknowledgement
+
+- [Coursera](https://www.coursera.org/)
